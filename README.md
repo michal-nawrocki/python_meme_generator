@@ -16,7 +16,7 @@ Generate memes using Python
 
         pip install -r requirements.txt
 
-3. `cd` into the `meme_generator` direcotry:
+3. `cd` into the `meme_generator` directory:
 
         cd meme_generator
 
