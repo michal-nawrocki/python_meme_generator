@@ -136,5 +136,5 @@ class Meme:
         y = 0
         self._draw_lines(top, y)
 
-        y = self.img_height - self.char_height * len(bottom) - 5
+        y = self.img_height - self.char_height * len(bottom) - 10
         self._draw_lines(bottom, y)
